@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchainhub
+chromadb
+langchain
+langgraph
+tavily-python
+python-dotenv
+langchain-groq
+wikipedia
+langchain_huggingface
+faiss-cpu
+sentence-transformers
